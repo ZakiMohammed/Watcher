@@ -1,0 +1,10 @@
+D:\_zaki\Code\Watcher\Watcher\bin\Debug\Watcher.exe.config
+D:\_zaki\Code\Watcher\Watcher\bin\Debug\Watcher.exe
+D:\_zaki\Code\Watcher\Watcher\bin\Debug\Watcher.pdb
+D:\_zaki\Code\Watcher\Watcher\obj\Debug\Watcher.csprojResolveAssemblyReference.cache
+D:\_zaki\Code\Watcher\Watcher\obj\Debug\Watcher.exe
+D:\_zaki\Code\Watcher\Watcher\obj\Debug\Watcher.pdb
+D:\_zaki\Code\Watcher\Watcher\bin\Debug\Watcher.exe.manifest
+D:\_zaki\Code\Watcher\Watcher\bin\Debug\Watcher.application
+D:\_zaki\Code\Watcher\Watcher\obj\Debug\Watcher.exe.manifest
+D:\_zaki\Code\Watcher\Watcher\obj\Debug\Watcher.application
